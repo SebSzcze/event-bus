@@ -1,0 +1,24 @@
+{
+  "name": "lari-event-bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebSzcze/event-bus.git"
+  },
+  "keywords": [
+    "vue",
+    "event",
+    "bus"
+  ],
+  "author": "Sebastian Szczepanski <sebastian@ably.pl> (http://ably.pl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebSzcze/event-bus/issues"
+  },
+  "homepage": "https://github.com/SebSzcze/event-bus#readme"
+}
